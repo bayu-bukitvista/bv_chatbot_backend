@@ -21,9 +21,9 @@ var mysql = require("mysql");
 //};
 
 var dbConfig = {
-    user: "bukitvista",
+    user: "dialogflow",
     password: "InspireDelight2017",
-    host: "internal.bukitvista.com",
+    host: "db.bukitvista.com",
     database: "bukitvis_bukitvista",
     ssl: true
 };
