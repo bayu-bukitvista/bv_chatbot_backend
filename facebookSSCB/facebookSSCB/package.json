@@ -19,6 +19,6 @@
     "fs": "0.0.1-security",
     "https": "^1.0.0",
     "languagedetect": "^1.2.0",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.6.1"
   }
 }
